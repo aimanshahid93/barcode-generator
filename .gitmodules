@@ -1,0 +1,4 @@
+[submodule "vendor/picqer/php-barcode-generator"]
+    path = vendor/picqer/php-barcode-generator
+    url = https://github.com/picqer/php-barcode-generator.git
+ 
